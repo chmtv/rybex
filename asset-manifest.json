@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rybex/static/css/main.aeda6332.chunk.css",
+    "main.js": "/rybex/static/js/main.8108a2bf.chunk.js",
+    "main.js.map": "/rybex/static/js/main.8108a2bf.chunk.js.map",
+    "runtime-main.js": "/rybex/static/js/runtime-main.39f6fd8f.js",
+    "runtime-main.js.map": "/rybex/static/js/runtime-main.39f6fd8f.js.map",
+    "static/js/2.c378e63f.chunk.js": "/rybex/static/js/2.c378e63f.chunk.js",
+    "static/js/2.c378e63f.chunk.js.map": "/rybex/static/js/2.c378e63f.chunk.js.map",
+    "index.html": "/rybex/index.html",
+    "precache-manifest.18875558894a935dda08d573b6969cf4.js": "/rybex/precache-manifest.18875558894a935dda08d573b6969cf4.js",
+    "service-worker.js": "/rybex/service-worker.js",
+    "static/css/main.aeda6332.chunk.css.map": "/rybex/static/css/main.aeda6332.chunk.css.map",
+    "static/js/2.c378e63f.chunk.js.LICENSE.txt": "/rybex/static/js/2.c378e63f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/rybex/static/media/LiberationSans.bbbd0bdb.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39f6fd8f.js",
+    "static/js/2.c378e63f.chunk.js",
+    "static/css/main.aeda6332.chunk.css",
+    "static/js/main.8108a2bf.chunk.js"
+  ]
+}
